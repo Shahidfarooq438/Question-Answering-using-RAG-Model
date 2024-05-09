@@ -4,4 +4,5 @@
 <p>Extracts the text from the pdf.</p>
 <p>Creates embeddings of the extracted text and stores in a vector database to be used during conversation.</p>
 <p>Using a reatrievel system the user query is answered from the text that is present in the pdf</p>
-<img src="bot.png">
+<h2>How it looks..</h2>
+<img src="bot.png" alt="window_image">
