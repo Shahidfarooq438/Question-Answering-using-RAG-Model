@@ -1,4 +1,4 @@
-<a href="https://convo-pdf.streamlit.app/">Click Here to Open the App</a>
+<a href="https://convo-pdf.streamlit.app/" target="_blank">Click Here to Open the App</a>
 <h1>Chat with PDFs</h1>
 <p>We need to input OpenAI API key for creating vector embeddings</p>
 <p>This model takes a pdf uploaded by the user.</p>
